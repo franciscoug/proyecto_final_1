@@ -11,7 +11,7 @@ x es la variable independiente,
 β0 es el intercepto de la recta,
 β1 es la pendiente de la recta.
 
-Tanto x como y son parte del dataset usado , β0 y β1 son par´ametros del modelo los cuales buscamos estimar con los datos, esto significa que se busca encontrar que valores de β0 y β1 producen
+Tanto x como y son parte del dataset usado , β0 y β1 son par´ametros del modelo los cuales buscamos estimar con los datos, esto significa que se busca encontrar que valores de β0 y β1 producen
 una recta que describa de la mejor manera posible la relaci´on entre los datos x y y.
 
 Se trabajara con un set de datos de muchas variables y se realiza un an´alisis exploratorio para
