@@ -34,3 +34,6 @@ significa que el 20 % de data no es usado durante todo el proyecto y es usado so
 cuando ya poseemos los modelos predictivos. Les llamamos ?set de validaci´on y pruebas?
 Los datos del proyecto podr´a encontrarlos en el GES en la secci´on de Material de Apoyo con el
 nombre de Datos para Proyecto #1
+
+#Video explicativo
+[Texto del enlace]([URL_del_enlace](https://vimeo.com/924775099/e9e5a79e75?share=copy)https://vimeo.com/924775099/e9e5a79e75?share=copy)
